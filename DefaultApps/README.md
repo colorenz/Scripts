@@ -1,10 +1,11 @@
 # Set the Default Apps with Duti and Jamf
-https://github.com/fitterhappier/duti
+
+You need to install duti to /usr/local/bin/duti
+<br />
+https://github.com/fitterhappier/duti <br />
 https://slack-files.com/T04QVKUQG-FG3SUUC20-73cc0c139a
 
-# You need to install duti to /usr/local/bin/duti 
-
-You can use it as a Jamf Script and as parameters you can use somethin like this:  
+You can use it as a Jamf Script and as parameters you can use something like this:  
 
 "com.microsoft.outlook mailto;com.microsoft.outlook com.apple.mail.email all;com.microsoft.outlook public.vcard all;com.microsoft.outlook com.apple.ical.ics all;com.microsoft.teams tel"
 
