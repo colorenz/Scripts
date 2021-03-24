@@ -1,5 +1,8 @@
-# Default App set the Default Handler for Apps with Duti.
+# Set the Default Apps with Duti and Jamf
 https://github.com/fitterhappier/duti
+https://slack-files.com/T04QVKUQG-FG3SUUC20-73cc0c139a
+
+# You need to install duti to /usr/local/bin/duti 
 
 You can use it as a Jamf Script and as parameters you can use somethin like this:  
 
