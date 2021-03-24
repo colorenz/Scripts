@@ -2,8 +2,9 @@
 
 You need to install duti to /usr/local/bin/duti
 <br />
-https://github.com/fitterhappier/duti <br />
-https://slack-files.com/T04QVKUQG-FG3SUUC20-73cc0c139a
+https://slack-files.com/T04QVKUQG-FG3SUUC20-73cc0c139a  <br />
+https://github.com/fitterhappier/duti
+
 
 You can use it as a Jamf Script and as parameters you can use something like this:  
 
